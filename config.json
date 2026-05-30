@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdonnect",
+        "uuid": 805000,
+        "checksum": "kanw2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
